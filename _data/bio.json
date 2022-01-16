@@ -54,12 +54,8 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML",
+        "CSS"
       ]
     },
     {
@@ -67,90 +63,93 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Shidler College Of Business, University Of Hawaii At Manoa, Honolulu, HI",
+      "area": "Bachelor of Business Administration in Accounting & Management Information Systems (Expected Fall, 2023)",
+      "studyType": "B.B.A",
+      "startDate": "2020-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.90",
       "courses": [
+        "Introduction to Accounting I & II",
+        "Intermediate Financial Accounting I",
+        "Federal Individual Income Tax",
+        "Business Statistical Analysis"
       ]
     }
   ],
-  "work": [
+  "work experience": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Kozo Sushi",
+      "position": "Assistant Manager",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2019-09-01",
+      "endDate": "2020-06-01",
+      "summary": "Aided in operataions of running the store",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Led three employees during the store hours, opening and closing",
+        "Trained five newly hired employees on how to complete responsibilities, work cash register and stock inventory",
+        "Managed and reviewed inventory throughout the week",
+        "Provided customer service by attending to any issues that customers may have had"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Sterling & Tuckers, CPAs",
+      "position": "Seasonal Tax Intern",
+      "website": "",
+      "startDate": "2021-12-26",
+      "endDate": "Present",
+      "summary": "Helped in the preparation of tax returns for individuals and trusts",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "",
       ]
     }
   ],
-  "volunteer": [
+  "Leadership Experience": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Accounting Club, Shidler College Of Business",
+      "website": "https://acuhmanoa.org/",
+      "position": "Elected Secretary",
+      "startDate": "2021-06-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Responsible for facilitating communications",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Coordinate with the Chapter President of IMA to promote IMA opportunities to over 40 student",
+        "Complete 4 scholarship applications throughout the year to raise money for the club to utilize for members",
+        "Maintain connections and relations with alumni to assist in events for the benefit of the club members"
       ]
     },
     {
-      "organization": "",
+      "organization": "Shidler College Of Business, University Of Hawaii At Manoa",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Student Mentor",
+      "startDate": "2021-08-01",
+      "endDate": "Present",
+      "summary": "Mentor for incoming Direct Admission students into Shidler",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Counsel 3 freshman in their transition to the beginning of their college career and facilitated in person meetings",
+        "Guide mentees in class selection, scheduling, utilization of campus resources, and joining extracurricular activities"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "UH Manoa Provost Achievement Scholarship",
+      "date": "August 2020-Present",
+      "awarder": "UH Manoa",
+      "summary": "A highly competitive scholarship that awards 80 students $10,000 per academic year to help pay for tuition"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Scholarship Recipient",
+      "date": "May 2020-Present",
+      "awarder": "Fukunaga Scholarship Foundation",
+      "summary": "Won $20,000 by competing with over 60 participants and 13 finalists by presenting an original business proposal to a panel of 7 committee members including board executives"
     }
   ],
   "references": [
