@@ -7,4 +7,4 @@ labels:
   - MIS
   - Learning
 ---
-Here is the link to my Assignment 3 Checkpoint video: [Assignment 3 Checkpoint](https://youtu.be/NeP4cxn6Uhs)
+Here is the link to my Assignment 3 Checkpoint video: [Assignment 3 Checkpoint](https://youtu.be/gbzc5qrspFI)
